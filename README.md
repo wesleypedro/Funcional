@@ -1,4 +1,4 @@
-# Linguagens de Programação - PROLOG
+# Linguagens de Programação - FUNCIONAL
 
 > Questões referente ao trabalho final da disciplica de Linguagens de Programação pela Universidade Federal do Ceará - Campus Quixadá.
 
