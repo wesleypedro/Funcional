@@ -1,6 +1,6 @@
 # Linguagens de Programação - PYTHON
 
-> Questões referente ao trabalho final da disciplica de Linguagens de Programação pela Universidade Federal do Ceará - Campus Quixadá.
+> Questões referente ao trabalho final da disciplina de Linguagens de Programação pela Universidade Federal do Ceará - Campus Quixadá.
 
 1. Faça um programa que recebe uma lista de inteiros e imprime somente os números que são primos.
 
